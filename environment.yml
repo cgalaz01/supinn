@@ -1,0 +1,15 @@
+name: supinn
+channels:
+  - defaults
+dependencies:
+  - python==3.8.13
+  - numpy==1.23.1
+  - scipy==1.9.1
+  - matplotlib==3.5.2
+  - cudatoolkit==11.2
+  - cudnn==8.1.0
+  - deepxde==1.11.1
+  - pip
+  - pip:
+      - tensorflow==2.15.0
+  
