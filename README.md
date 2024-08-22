@@ -47,6 +47,8 @@ Ensure you have Anaconda or Miniconda installed.
    ```bash
    conda env create -f environment.yml
    ```
+   Please note that the YAML file includes instructions specifically for installing the CPU version of TensorFlow. See https://www.tensorflow.org/install/pip on how to install the GPU version on your system. 
+   
    
 3. Activate new environment:
    ```bash
