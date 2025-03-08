@@ -76,3 +76,22 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Contact
 
 Feel free to open an issue or submit a pull request if you find any issues or have suggestions for improvements.
+
+## Citation
+
+If you found this code useful for your project please cite as:
+```
+@article{galazis2025pinning,
+  title={PINNing cerebral blood flow: analysis of perfusion MRI in infants using physics-informed neural networks},
+  author={Galazis, Christoforos and Chiu, Ching-En and Arichi, Tomoki and Bharath, Anil A and Varela, Marta},
+  journal={Frontiers in Network Physiology},
+  volume={5},
+  pages={1488349},
+  year={2025},
+  publisher={Frontiers Media SA}
+}
+```
+	
+## Acknowledgement
+
+This work was supported by the UK Research and Innovation (UKRI) Centres of Doctoral Training (CDT) in Artificial Intelligence for Healthcare (AI4H) (http://ai4health.io) (Grant No. EP/S023283/1), St George’s Hospital Charity, the NIHR Imperial Biomedical Research Centre (BRC), and the British Heart Foundation Centre of Research Excellence at Imperial College London (RE/18/4/34215).
